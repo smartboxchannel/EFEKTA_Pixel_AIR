@@ -251,7 +251,7 @@
         {
           "type": "C_CurrentAtmosphericPressure",
           "link": {
-            "endpoint": 4,
+            "endpoint": 2,
             "cluster": "0403_PressureMeasurement",
             "attribute": "0000_MeasuredValue"
           }
