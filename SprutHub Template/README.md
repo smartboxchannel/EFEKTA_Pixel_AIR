@@ -6,6 +6,8 @@ Sprut.hub Wiki | Добавление кастомных шаблонов - http
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
+![EFEKTA Pixel Air](https://raw.githubusercontent.com/smartboxchannel/EFEKTA_Pixel_AIR/refs/heads/main/IMAGES/EFEKTA_Pixel_AIR.jpg)
+
 ![EFEKTA Pixel Air](https://raw.githubusercontent.com/smartboxchannel/EFEKTA_Pixel_AIR/refs/heads/main/IMAGES/001.png)
 
 ![EFEKTA Pixel Air](https://raw.githubusercontent.com/smartboxchannel/EFEKTA_Pixel_AIR/refs/heads/main/IMAGES/002.png)
